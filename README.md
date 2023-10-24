@@ -1,5 +1,6 @@
-### Hi there 👋
+### Oi, Brasil 👋
 
+Eu sou o Aluno 4 Dev, da escola de programação Edu4Dev e este é o meu perfil de desenvolvedor.
 <!--
 **miltonsiedler/miltonsiedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
